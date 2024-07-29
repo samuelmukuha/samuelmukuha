@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelmukuha
 
 ![samuelmukuha GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmukuha&show_icons=true&hide_border=true%29)
-![samuelmukuha GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmukuha&show_icons=true&hide_border=true%29)
+
 
 
 
